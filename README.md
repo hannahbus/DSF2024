@@ -5,3 +5,4 @@
 2. Push it to GitHub
 3. Generate a new branch 
 ...
+This is a new feature.
